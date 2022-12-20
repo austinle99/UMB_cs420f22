@@ -1,7 +1,8 @@
 # UMB_cs420f22
  CS420: Theory to Computation
 
-Introduction to theoretical aspects of computing including models of computation, inherent limits on computation, and feasible computation. Topics covered:
+Introduction to theoretical aspects of computing including models of computation, inherent limits on computation, and feasible computation. 
+Topics covered:
 • finite automata (deterministic, nondeterministic, pushdown)
 • regular expressions
 • context-free grammars
