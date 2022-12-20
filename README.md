@@ -2,7 +2,7 @@
  CS420: Theory to Computation
 
 Introduction to theoretical aspects of computing including models of computation, inherent limits on computation, and feasible computation. 
-Topics covered:
+Included:
 • finite automata (deterministic, nondeterministic, pushdown)
 • regular expressions
 • context-free grammars
